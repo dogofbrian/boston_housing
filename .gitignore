@@ -2,3 +2,7 @@ housing\.csv
 project_description\.md
 README\.md
 visuals\.py
+
+\.ipynb_checkpoints/boston_housing-checkpoint\.ipynb
+
+visuals\.pyc
